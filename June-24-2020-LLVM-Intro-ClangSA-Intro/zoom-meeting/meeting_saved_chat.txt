@@ -1,0 +1,138 @@
+18:26:50	 From  Vince Bridgers : Guten Abend Anja
+18:29:02	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Good evening Anja, how are you? 
+18:30:24	 From  Vince Bridgers  to  Adam Magier(Privately) : Hi Adam, can you hear me?
+18:30:35	 From  Anja Gerbes : Guten Abend Vince, good how are you? Sorry that I saw your message just now.
+18:30:53	 From  Adam Magier  to  Vince Bridgers(Privately) : Hey Vince, not sure I can. Were you saying something?
+18:30:55	 From  Vince Bridgers : Hi Anja! no problem. 
+18:31:00	 From  Anja Gerbes  to  Vince Bridgers(Privately) : Are you fine?
+18:31:06	 From  Vince Bridgers : Let me try again. 
+18:31:18	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I can hear you!
+18:31:26	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Awesome!
+18:31:36	 From  Anja Gerbes  to  Vince Bridgers(Privately) : Good to hear your voice. 
+18:31:43	 From  Vince Bridgers  to  Anja Gerbes(Privately) : you too!
+18:32:00	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Are you in Berlin? Or Frankfurt? 
+18:32:51	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I am located in Frankfurt/Main.
+18:33:33	 From  Vince Bridgers  to  Anja Gerbes(Privately) : I miss Germany. :) 
+18:33:42	 From  Anja Gerbes  to  Vince Bridgers(Privately) : Many thanks for hosting such a LLVM Meetup. I am always jalous when I seeing there is a LLVM Meetup in America. 
+18:33:55	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Must be late there for you. 
+18:33:57	 From  Anja Gerbes  to  Vince Bridgers(Privately) : One day you can visit Germany again and then we can meet in person. :)
+18:34:08	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Yes!
+18:34:36	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Sometimes I go to Sweden, or Hungary. 
+18:34:38	 From  Anja Gerbes  to  Vince Bridgers(Privately) : 1:30 o'clock in the night. but no problem. all is fine
+18:34:47	 From  bazinga : Hi everyone, yes, I can hear you. 
+18:34:50	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes!
+18:34:51	 From  Vince Bridgers  to  Anja Gerbes(Privately) : ok
+18:41:11	 From  Anja Gerbes  to  Vince Bridgers(Privately) : no audio problems. all fine. well done
+18:51:43	 From  Anja Gerbes  to  Vince Bridgers(Privately) : everything is fine. later I have a question about bindings with python. but we can discuss this later after the meetup, if you have time, of course. 
+18:55:40	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes!
+18:55:47	 From  bazinga : Yes, everything great
+19:10:58	 From  Anja Gerbes  to  Vince Bridgers(Privately) : very nice demo
+19:11:26	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Thank you :) 
+19:18:32	 From  Anja Gerbes  to  Vince Bridgers(Privately) : no
+19:30:37	 From  Anja Gerbes  to  Vince Bridgers(Privately) : thank you very much for the great insight
+19:35:02	 From  bazinga : Any other theorem provers you know that could be used with clang? 
+19:35:47	 From  bazinga : and it works with IR?\  
+19:36:59	 From  bazinga : yes, thank you 
+19:37:18	 From  Anja Gerbes : I have a question about bindings in clang. is cindex.py the only source / binding?
+19:37:34	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes, chat offline would be awesome°
+19:37:36	 From  Anja Gerbes  to  Vince Bridgers(Privately) : !
+19:38:03	 From  Anja Gerbes : I would like to use, yes
+19:38:16	 From  Anja Gerbes : great!
+19:38:24	 From  Anja Gerbes  to  Vince Bridgers(Privately) : thank you very much for your help!
+19:38:35	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I have a lot of ideas in my head
+19:38:57	 From  realpolitik : Thanks!
+19:39:02	 From  bazinga : Can I use z3 with IR ? 
+19:40:12	 From  bazinga : Ok, great. Thank you for the talk!
+19:41:50	 From  bazinga : Bye
+19:42:01	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Hi
+19:42:07	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I will send you an longer email and we could talk via hangout/google mail address
+19:42:14	 From  Anja Gerbes  to  Vince Bridgers(Privately) : or do you like to talk here?
+19:42:33	 From  Vince Bridgers  to  Anja Gerbes(Privately) : That would be fine, I know it's late there. 
+19:42:40	 From  Vince Bridgers  to  Anja Gerbes(Privately) : My email is vince_bridgers@yahoo.com
+19:42:42	 From  Anja Gerbes  to  Vince Bridgers(Privately) : no problem. I am awake now
+19:43:04	 From  Vince Bridgers  to  Anja Gerbes(Privately) : How are things in Frankfurt? 
+19:43:56	 From  Anja Gerbes  to  Vince Bridgers(Privately) : good, since March 16 I am at home office. was productive in my python implementation of my phd. and I would like to use cindex.py there. because all my code is written in python
+19:44:02	 From  Anja Gerbes  to  Vince Bridgers(Privately) : My research interest is:
+The Performance Analysis and Source-Code Instrumentation Toolsuite (PASCIT) will ultimately optimize source code for HPC compute dwarfs and analyze the inefficiencies of compilers to increase performance.
+Compilers often lack the opportunity of high-level optimization potential in General Purpose Languages as they are constrained by the semantics of the language. In the Advanced Computation and I/O Methods for Earth-System Simulations (AIMES) project a Domain Specific Language (DSL) was defined that has high-level insight. However, while the DSL will take care of high-level optimizations, low-level optimizations embedded in the compiler could still benefit from the additional knowledge.
+PASCIT aims to exploit this high-level information. Clang/LLVM is chosen for a source code transformation also for analyzing the compilation techniques of the clang compiler targeted at high-performance computing code.
+
+
+19:44:51	 From  Anja Gerbes  to  Vince Bridgers(Privately) : it is only a first insight of my work
+19:44:58	 From  Vince Bridgers  to  Anja Gerbes(Privately) : That sounds really interesting. You're at the HPC center in Frankfurt?
+19:45:51	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes
+19:46:14	 From  Vince Bridgers  to  Anja Gerbes(Privately) : I really miss Germany. I had a scheduled trip for Cologne area for the Spring, had to cancel because of the travel restrictions. 
+19:46:41	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Wanted to go during Spargelzeit :) 
+19:46:48	 From  Vince Bridgers  to  Anja Gerbes(Privately) : If I got that right 
+19:46:53	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I would be in Paris before easter to attend LLVM in Europe
+19:47:05	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yeah. I love spargel, too.
+19:47:10	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Ahh, yes, wanted to do that too. 
+19:47:18	 From  Anja Gerbes  to  Vince Bridgers(Privately) : Here are my poster:
+http://llvm.org/devmtg/2017-03//assets/slides/intelligent_selection_of_compiler_options_to_optimize_compile_time_and_performance.pdf
+19:47:30	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Were you in Brusells last year?
+19:48:09	 From  Anja Gerbes  to  Vince Bridgers(Privately) : https://hps.vi4io.org/_media/research/publications/2018/dlapfcmgjk18-automatic_profiling_for_climate_modeling.pdf
+19:48:14	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Nice 
+19:48:30	 From  Anja Gerbes  to  Vince Bridgers(Privately) : No I wasn't in Brüssel last year. Had another event to organize at our university. 
+19:48:40	 From  Anja Gerbes  to  Vince Bridgers(Privately) : date collision, argh :(
+19:48:56	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Do you teach at the University too? 
+19:49:08	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes, once a month, normally
+19:49:31	 From  Anja Gerbes  to  Vince Bridgers(Privately) : https://csc.uni-frankfurt.de/wiki/doku.php?id=public:workshops
+19:49:44	 From  Anja Gerbes  to  Vince Bridgers(Privately) : https://csc.uni-frankfurt.de/wiki/doku.php?id=public:events
+19:49:55	 From  Anja Gerbes  to  Vince Bridgers(Privately) : https://csc.uni-frankfurt.de/wiki/doku.php?id=public:archive
+19:50:09	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Nice ! 
+19:50:09	 From  Anja Gerbes  to  Vince Bridgers(Privately) : but lot of my courses was cancelled due of covid-19
+19:50:25	 From  Anja Gerbes  to  Vince Bridgers(Privately) : now I am sitting at home, and it was boring some days. 
+19:50:38	 From  Vince Bridgers  to  Anja Gerbes(Privately) : arg, not so nice . 
+19:51:02	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I am very excited not and getting nervous, because of https://hps.vi4io.org/events/2020/llvm
+19:51:19	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I had to cancel more then 5 courses and my heart was broken
+19:52:02	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I put so much effort into the preparation/organization :(
+19:52:06	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Hal was presenting? nice. 
+19:52:22	 From  Anja Gerbes  to  Vince Bridgers(Privately) : not was, is, it is today and tomorrow
+19:52:26	 From  Anja Gerbes  to  Vince Bridgers(Privately) : for me at least
+19:52:45	 From  Vince Bridgers  to  Anja Gerbes(Privately) : That's a nice line up of speakers. 
+19:52:50	 From  Anja Gerbes  to  Vince Bridgers(Privately) : so you can join, if your interested in some of the talks
+19:52:56	 From  Anja Gerbes  to  Vince Bridgers(Privately) : really?
+19:53:17	 From  Vince Bridgers  to  Anja Gerbes(Privately) : yes! that would be great!
+19:53:31	 From  Anja Gerbes  to  Vince Bridgers(Privately) : thanks to johannes, I am more a unknown in the community. I just had the idea to have a LLVM Workshop at ISC and I was searching for contributors
+19:53:48	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Xinmin - he's good. 
+19:54:12	 From  Anja Gerbes  to  Vince Bridgers(Privately) : https://www.isc-hpc.com/registration.html
+19:54:39	 From  Anja Gerbes  to  Vince Bridgers(Privately) : just register at ISC and give a positive feedback, if you liked the talks, the feedback is important
+19:54:55	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Ahh, I'll sign up then. I wake up early my time, so this works out :) 
+19:55:15	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I would like to resubmit a second LLVM workshop next year, and the reviewers would look on the feedback results from today+tomorrows workshop
+19:55:28	 From  Anja Gerbes  to  Vince Bridgers(Privately) : thank you for attending :)
+19:55:37	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Yup ! :) 
+19:56:04	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Do you work with anyone at the University in Paderborn ?
+19:56:16	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I will think about how to write you all my ideas down, but I will send it to you after the workshop is done
+19:56:30	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I do not work with them, but I know a few people there
+19:56:34	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Yup, sounds good. 
+19:57:16	 From  Vince Bridgers  to  Anja Gerbes(Privately) : I worked at Siemens there about 10 years ago. Knew George Mueller, I think he was associated with the Uni there. 
+19:57:18	 From  Anja Gerbes  to  Vince Bridgers(Privately) : so my feedback to you; you have a wonderful voice, it was a joy for me to listen, you talked not so fast and it was comprehensive :) well done! good job°
+19:57:19	 From  Anja Gerbes  to  Vince Bridgers(Privately) : !
+19:57:32	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Thank you very much! 
+19:57:45	 From  Anja Gerbes  to  Vince Bridgers(Privately) : my dad worked at Siemens all the years after his study, he retired now since february
+19:57:52	 From  Vince Bridgers  to  Anja Gerbes(Privately) : We're just getting going again, the community here in Austin is small. 
+19:57:57	 From  Vince Bridgers  to  Anja Gerbes(Privately) : for llvm at least. 
+19:58:02	 From  Vince Bridgers  to  Anja Gerbes(Privately) : not like San Jose. 
+19:58:36	 From  Anja Gerbes  to  Vince Bridgers(Privately) : I am the only one in frankfurt, it seems to me, that is using/trying to use llvm/clang
+19:59:08	 From  Vince Bridgers  to  Anja Gerbes(Privately) : That was my first experience traveling to Europe. My hosts there were very good to us. 
+19:59:08	 From  Anja Gerbes  to  Vince Bridgers(Privately) : Austin: small but pretty! :) 
+19:59:16	 From  Vince Bridgers  to  Anja Gerbes(Privately) : You've been here?
+19:59:16	 From  Anja Gerbes  to  Vince Bridgers(Privately) : wonderful news
+19:59:28	 From  Anja Gerbes  to  Vince Bridgers(Privately) : where?
+19:59:32	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Austin? 
+19:59:48	 From  Anja Gerbes  to  Vince Bridgers(Privately) : yes, I travelled with my parents
+19:59:58	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Ahhh - nice!! 
+20:00:18	 From  Anja Gerbes  to  Vince Bridgers(Privately) : 96-2006 each summer for 6 weeks and then 2012/2013 and from 2016 each year again for a few weeks
+20:00:22	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Did you get to hear the Texas German they speak around here? 
+20:00:28	 From  Anja Gerbes  to  Vince Bridgers(Privately) : no never
+20:00:46	 From  Vince Bridgers  to  Anja Gerbes(Privately) : They call a skunk a stinktier I think. 
+20:00:51	 From  Anja Gerbes  to  Vince Bridgers(Privately) : oh wow
+20:01:11	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Some words evolved differently. It's very interesting. 
+20:01:26	 From  Anja Gerbes  to  Vince Bridgers(Privately) : hope to come to US in november, would love to attend https://sc20.supercomputing.org/
+20:01:53	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Atlanta - that would be nice. 
+20:02:09	 From  Anja Gerbes  to  Vince Bridgers(Privately) : if it is okay for you, I would go to sleep. we will chat definetly after our successful, great, awesome first LLVM workshop at ISC :)
+20:02:20	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Yes, no prob. Good chatting! 
+20:02:23	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Thank you for connecting! 
+20:02:27	 From  Anja Gerbes  to  Vince Bridgers(Privately) : good evening! 
+20:02:35	 From  Anja Gerbes  to  Vince Bridgers(Privately) : thank you for giving the great talk. see you soon.
+20:02:38	 From  Vince Bridgers  to  Anja Gerbes(Privately) : Cheers! 
